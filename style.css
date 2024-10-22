@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header{
+    background-color: burlywood;
+    color: brown;
+    font-size: 2rem;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
